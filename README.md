@@ -1,5 +1,5 @@
 # firstTriangle
-5/23/22 CAS - First Triangle
+5/23/22 CAS Reflection 1 - First Triangle
 ![image](https://user-images.githubusercontent.com/103293120/169907794-1ff5f706-57a4-4fa0-899f-8943687a7704.png)
 
 
