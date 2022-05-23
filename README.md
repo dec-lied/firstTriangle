@@ -4,7 +4,7 @@
 
 
 <h1> Source code </h1>
-<p> Source code is all included in the firstTriangle folder in addition to some Visual Studio 2022 project files. You can downloading it by either clicking Code -> Download as ZIP and unpacking it, or if you have git installed, clone the repository. </p>
+<p> Source code is all included in the firstTriangle folder in addition to some Visual Studio 2022 project files. You can downloading it by either clicking Code -> Download as ZIP and unpacking it, or if you have git installed, cloning the repository. </p>
 
 <h1> Running it </h1>
 <p> You can either build it yourself by opening the .sln file and running it in Visual Studio 2022 or download an executable binary from the release page. </p>
