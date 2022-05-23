@@ -1,6 +1,7 @@
 # firstTriangle
 5/23/22 CAS - First Triangle
-![image](https://user-images.githubusercontent.com/103293120/169907744-79e9a1f8-461f-498f-b090-7d6b424d28b1.png)
+![image](https://user-images.githubusercontent.com/103293120/169907794-1ff5f706-57a4-4fa0-899f-8943687a7704.png)
+
 
 <h1> Source code </h1>
 <p> Source code is all included in the firstTriangle folder as well as some Visual Studio 2022 project files. </p>
