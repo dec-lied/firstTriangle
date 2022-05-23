@@ -4,7 +4,7 @@
 
 
 <h1> Source code </h1>
-<p> Source code is all included in the firstTriangle folder as well as some Visual Studio 2022 project files. </p>
+<p> Source code is all included in the firstTriangle folder in addition to some Visual Studio 2022 project files. </p>
 
 <h1> Running it </h1>
 <p> You can either build it yourself by opening the .sln file and running it in Visual Studio 2022 or download an executable binary from the release page. </p>
