@@ -14,6 +14,7 @@
   
 <h1> Other information </h1>
 <p> The include directory contains the necessary files for glad and glfw. The lib directory contains the necessary static libraries for x86 and x86 glfw that the program links to. </p>
+<p> At some point, I may switch to using CMake for the source code, but I, along with many, many others, really do not like using CMake, so for now I will just be uploading Visual Studio Solutions. </p>
 
 <h1> 94.4% C? 4.5% Objective C? </h1>
 <p> Glad is made in C, not C++, and glad is just a huge file doing tedious address loading for OpenGL functions. Also, apparently glfw has 1 file that uses some objective-C. In summary, I am not using C or objective-C in this, but some libraries I am using do. Also, in the future, I may een use C for some projects. It is very similar to C++, and the opengl api supports them both. </p>
